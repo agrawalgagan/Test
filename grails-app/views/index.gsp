@@ -57,6 +57,7 @@
                 <div class="panelBody">
                     <h1>Application Status</h1>
                     <ul>
+					
                         <li>App version: <g:meta name="app.version"></g:meta></li>
                         <li>Grails version: <g:meta name="app.grails.version"></g:meta></li>
                         <li>Groovy version: ${org.codehaus.groovy.runtime.InvokerHelper.getVersion()}</li>
